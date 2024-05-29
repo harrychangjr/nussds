@@ -85,6 +85,7 @@ profiles = [
         "name": "Kaiser Cheng",
         "year": "Year 2, Data Science and Analytics",
         "experience": [
+            "AI Engineer Intern, IBM",
             "Product Intern, AgentScale AI",
             "Product Intern, Streaminc",
             "Event Director, AIESEC in NUS"
